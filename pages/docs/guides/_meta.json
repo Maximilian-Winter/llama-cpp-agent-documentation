@@ -1,0 +1,32 @@
+{
+    "simple-chat": {
+        "title": "Simple Chat",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "function-calling-agent": {
+        "title": "Function Calling",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "parallel-function-calling-agent": {
+        "title": "Parallel Function Calling",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "structured-output": {
+        "title": "Structured Output",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "rag": {
+        "title": "Retrieval Augmented Generation",
+        "theme": {
+            "breadcrumb": false
+        }
+    }
+}

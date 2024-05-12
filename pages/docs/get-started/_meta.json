@@ -1,0 +1,26 @@
+{
+    "introduction": {
+        "title": "Introduction",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "quickstart": {
+        "title": "Quickstart",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "tutorials": {
+        "title": "Tutorials",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "changelog": {
+        "title": "Changelog",
+        "theme": {
+            "breadcrumb": false
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "index": {
+    "title": "Home",
+    "display": "hidden",
+    "type": "page",
+    "theme": {
+        "collapsed": true,
+        "breadcrumb": false,
+        "footer": true,
+        "sidebar": false,
+        "toc": true,
+        "pagination": false
+    }
+  },
+  "docs": {
+    "title": "Documentation",
+    "type": "page",
+    "theme": {
+        "collapsed": false
+    }
+  },
+  "api-reference": {
+    "title": "API reference",
+    "type": "page"
+  }
+}
