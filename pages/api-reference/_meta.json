@@ -1,0 +1,38 @@
+{
+    "agents": {
+        "title": "Agents",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "function-calling": {
+        "title": "Function calling",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "chain": {
+        "title": "Chains",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "grammar": {
+        "title": "Grammars",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "output-parser": {
+        "title": "Output parser",
+        "theme": {
+            "breadcrumb": false
+        }
+    },
+    "settings": {
+        "title": "Settings",
+        "theme": {
+            "breadcrumb": false
+        }
+    }
+}

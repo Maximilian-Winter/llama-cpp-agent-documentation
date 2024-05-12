@@ -1,0 +1,14 @@
+{
+    "get-started": {
+        "title": "Get started",
+        "theme": {
+            "collapsed": false
+        }
+    },
+    "guides": {
+        "title": "Guides",
+        "theme": {
+            "collapsed": false
+        }
+    }
+}
